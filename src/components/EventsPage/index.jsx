@@ -20,7 +20,7 @@ function EventsPage(props) {
     rectangle30,
     seat25People,
     rectangle31,
-    speakers4Exerts,
+    speakers4Experts,
     aboutTheEvent,
     whatYouWillLearn,
     title,
